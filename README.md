@@ -1,4 +1,4 @@
-# bleep [![Build Status](https://secure.travis-ci.org/danielchatfield/node-bleep.png?branch=master)](http://travis-ci.org/danielchatfield/bleep) [![Dependency Status](https://david-dm.org/danielchatfield/node-bleep.png)](https://david-dm.org/danielchatfield/node-bleep)
+# bleep [![Build Status](https://secure.travis-ci.org/danielchatfield/node-bleep.png?branch=master)](http://travis-ci.org/danielchatfield/node-bleep) [![Dependency Status](https://david-dm.org/danielchatfield/node-bleep.png)](https://david-dm.org/danielchatfield/node-bleep)
 
 A module to make the terminal bleep.
 
