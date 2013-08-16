@@ -1,0 +1,26 @@
+{
+  "name": "bleep",
+  "version": "0.0.0",
+  "description": "A module to make the terminal bleep.",
+  "homepage": "https://github.com/danielchatfield/node-bleep",
+  "bugs": "https://github.com/danielchatfield/bleep/issues",
+  "author": {
+    "name": "Daniel Chatfield",
+    "email": "chatfielddaniel@gmail.com",
+    "url": "https://github.com/danielchatfield"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielchatfield/bleep"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
