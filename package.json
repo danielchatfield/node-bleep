@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "A module to make the terminal bleep.",
   "homepage": "https://github.com/danielchatfield/node-bleep",
-  "bugs": "https://github.com/danielchatfield/bleep/issues",
+  "bugs": "https://github.com/danielchatfield/node-bleep/issues",
   "author": {
     "name": "Daniel Chatfield",
     "email": "chatfielddaniel@gmail.com",
