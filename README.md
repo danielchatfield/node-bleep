@@ -1,4 +1,7 @@
-# bleep [![Build Status](https://secure.travis-ci.org/danielchatfield/node-bleep.png?branch=master)](http://travis-ci.org/danielchatfield/node-bleep) [![Dependency Status](https://david-dm.org/danielchatfield/node-bleep.png)](https://david-dm.org/danielchatfield/node-bleep)
+# bleep
+[![Build Status](https://secure.travis-ci.org/danielchatfield/node-bleep.png?branch=master)](http://travis-ci.org/danielchatfield/node-bleep)
+[![Dependency Status](https://gemnasium.com/danielchatfield/node-bleep.png)](https://gemnasium.com/danielchatfield/node-bleep) 
+[![NPM version](https://badge.fury.io/js/bleep.png)](http://badge.fury.io/js/bleep)
 
 A module to make the terminal bleep.
 
