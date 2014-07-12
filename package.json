@@ -4,6 +4,7 @@
   "description": "A module to make the terminal bleep.",
   "homepage": "https://github.com/danielchatfield/node-bleep",
   "bugs": "https://github.com/danielchatfield/node-bleep/issues",
+  "main": "./lib/bleep.js",
   "author": {
     "name": "Daniel Chatfield",
     "email": "chatfielddaniel@gmail.com",
