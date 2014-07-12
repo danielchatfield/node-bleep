@@ -20,12 +20,11 @@
     }
   ],
   "devDependencies": {
-    "grunt-cli": "~0.1.9",
-    "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-watch": "~0.5.0"
+    "gulp": "^3.8.6",
+    "gulp-jshint": "^1.7.1",
+    "jshint-stylish": "^0.4.0"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "gulp lint"
   }
 }
