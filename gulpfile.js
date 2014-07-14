@@ -7,3 +7,8 @@ gulp.task('lint', function(){
     .pipe(jshint.reporter('jshint-stylish'))
     .pipe(jshint.reporter('fail'));
 });
+
+gulp.task('test', ['lint'], function(){
+    var bleep = require('./lib/bleep');
+    bleep();
+});

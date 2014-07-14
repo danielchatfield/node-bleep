@@ -25,6 +25,6 @@
     "jshint-stylish": "^0.4.0"
   },
   "scripts": {
-    "test": "gulp lint"
+    "test": "gulp test"
   }
 }
